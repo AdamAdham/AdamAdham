@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamadham&label=Profile%20views&color=0e75b6&style=flat" alt="adamadham" /> </p>
 
-- 💬 Ask me about **Javascript, Html, CSS, Python**
+- 💬 Ask me about **Html, CSS, JavaScript, Python**
 
 - 📫 How to reach me **adamfayek6@gmail.com**
 
