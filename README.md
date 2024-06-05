@@ -1,7 +1,7 @@
 <h1 align="center">Welcome👋, I'm Adam Adham</h1>
 <h3 align="center">I'm a computer science and engineering student</h3>
 
-- 💬 Ask me about **Java, Html, CSS, JavaScript,Python**
+- 💬 Ask me about **Java, JavaScript, Python**
 
 - 📫 How to reach me **adamfayek6@gmail.com**
 
