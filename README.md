@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello 👋, I'm Adam Adham</h1>
+<h3 align="center">I'm a computer science and engineering student</h3>
 
 - 🔭 I’m currently working on **a React Native app**
 
