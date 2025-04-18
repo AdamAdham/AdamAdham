@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Adam Adham</h1>
 <h3 align="center">I'm a computer science and engineering student</h3>
 
-- 🔭 I’m currently working on **a React Native app**
-
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **adamfayek6@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adam-adham/](https://www.linkedin.com/in/adam-adham/)
