@@ -1,7 +1,4 @@
-<h1 align="left">My name is Adam Adham 🖥️</h1>
-
-# 💫 About Me:
-🤖 I am a **Machine Learning Engineer / Data Scientist** <br>
+<h1 align="left">**Machine Learning Engineer / Data Scientist**</h1>
 🔭 Working on probabilistic modeling in time series problems.<br>
 📖 Learning about the math behind Bayesian modeling.<br>
 🤝 Looking to collaborate on applied ML projects.
