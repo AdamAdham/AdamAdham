@@ -52,6 +52,7 @@
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
+  <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
 </div>
 
 ###
@@ -63,13 +64,13 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamAdham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AdamAdham&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=AdamAdham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=AdamAdham&theme=dracula&row=1&no-frame=true" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AdamAdham&theme=dracula&row=1&no-frame=true" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamAdham&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
