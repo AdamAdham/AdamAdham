@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
-  <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
+  
 </div>
 
 ###
