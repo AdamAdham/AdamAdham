@@ -1,9 +1,9 @@
 <h1 align="left">Machine Learning Engineer / Data Scientist</h1>
 🔭 Working on probabilistic modeling in time series problems.<br>
-📖 Learning about the math behind Bayesian modeling.<br>
-🤝 Looking to collaborate on applied ML projects.
-
-###
+📖 Exploring the math behind Bayesian modeling.<br>
+🤝 Open to collaboration on applied ML projects.<br>
+📧 Contact me: <a href="mailto:adamfayek6@gmail.com" target="_blank">adamfayek6@gmail.com</a>. <br>
+📄 See my experiences on Linkedin: <a href="https://www.linkedin.com/in/adam-adham" target="_blank">adam-adham</a> or view my <a href="https://drive.google.com/drive/folders/1y1IPW2K18CAu-d9zbxrRhU4ZD6qSieFI?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>.
 
 ## Core Skills 🤖
 <div align="left">
@@ -69,16 +69,15 @@
 
 ## Contacts 📱
 <div align="center">
-  <a href="mailto:adamfayek6@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=adamfayek6@gmail.com&color=D14836&logoColor=white&labelColor=DB5A4D&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:adamfayek6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/adam-adham" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=adam-adham&color=0077B5&logoColor=white&labelColor=0088B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/adam-adham" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://drive.google.com/drive/folders/1y1IPW2K18CAu-d9zbxrRhU4ZD6qSieFI?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" height="35" />
 </a>
-
 </div>
 
 ###
