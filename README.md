@@ -69,13 +69,13 @@
 
 ## Contacts 📱
 <div align="center">
-  <a href="adamfayek6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:adamfayek6@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=adamfayek6@gmail.com&color=D14836&logoColor=white&labelColor=DB5A4D&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/adam-adham" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  <a href="https://www.linkedin.com/in/adam-adham" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=adam-adham&color=0077B5&logoColor=white&labelColor=0088B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://drive.google.com/drive/folders/1y1IPW2K18CAu-d9zbxrRhU4ZD6qSieFI?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1y1IPW2K18CAu-d9zbxrRhU4ZD6qSieFI?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" height="35" />
 </a>
 
